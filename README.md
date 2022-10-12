@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collins-Kareri
-- 👀 I’m interested in web development and mobile app development
+- 👀 I’m interested in web development and mobile app development in futter
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter and js projects.
+- 💞️ I’m looking to collaborate on flutter and javascript projects.
 - 📫 How to reach me locoreri@gmail.com
 
 <!---
