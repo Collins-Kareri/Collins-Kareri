@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Collins Kareri.
-- 👀 I’m interested in web development in JavaScript and mobile app development in flutter.
-- 🌱 I’m currently learning flutter, bash scripting and aws.
-- 💞️ I’m looking to collaborate on flutter and javascript projects.
+- 👀 I’m interested in web development in JavaScript and Php.
+- 🌱 I’m currently learning php,laravel and bash scripting.
+- 💞️ I’m looking to collaborate on php and javascript projects.
 - 📫 How to reach me locoreri@gmail.com.
 
 <!---
